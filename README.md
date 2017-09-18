@@ -49,7 +49,7 @@ All the documentation and pictures that I have here is
 copyright 2017 C.Y. Tan and released under Creative Commons
 Attribution-ShareAlike 3.0 Unported License.
 
-The adapter design is copyright 2016 C.Y. Tan and released under the CERN
+The adapter design is copyright 2017 C.Y. Tan and released under the CERN
 Open Hardware License v1.2
 
 All software is released under GPLv3.
