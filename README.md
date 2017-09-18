@@ -41,7 +41,7 @@ the [Astro-Physics 6" Eagle Adjustable Folding Pier](http://www.astro-physics.co
   for manufacture is found here.
 * **adapter_source** The source code written in
   [Openscad](http://www.openscad.org) is found here. 
-  * **pics** Image files for this repository.
+* **pics** Image files for this repository.
   
 ## Copyright
 
