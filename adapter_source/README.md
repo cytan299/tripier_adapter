@@ -13,6 +13,6 @@ _stl_ file can be found in the _adapter_stl_ directory.
 
 ## Copyright
 
-The source code for generating the case is released under GPLv3.
+The source code for generating the adapter is released under GPLv3.
 
 
